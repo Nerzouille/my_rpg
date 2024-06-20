@@ -1,0 +1,4 @@
+[Chevalier: vainqueur]
+Le monstre a fait tomber une clef !
+[Chevalier]
+La porte est ouverte.

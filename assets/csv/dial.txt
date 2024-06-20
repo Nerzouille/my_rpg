@@ -1,0 +1,13 @@
+4176, 6384, 48, 10, assets/txt/porte_tuto.txt
+4848, 5328, 217, 96, assets/txt/spaceship.txt
+5136, 5040, 148, 48, assets/txt/blood.txt
+3744, 4752, 144, 10, assets/txt/closed_d.txt
+2769, 5984, 80, 84, assets/txt/key_under_rock.txt
+2640, 4176, 71, 74, assets/txt/distrib_piece.txt
+4972, 4128, 884, 432, assets/txt/strange_room.txt
+5568, 4080, 144, 10, assets/txt/closed_d.txt
+5876, 6528, 124, 118, assets/txt/vase_piece.txt
+7056, 4704, 144, 96, assets/txt/armes.txt
+7279, 3391, 161, 133, assets/txt/big_key.txt
+4368, 3216, 528, 336, assets/txt/strange_room_2.txt
+6115, 2160, 188, 98, assets/txt/boue_piece.txt

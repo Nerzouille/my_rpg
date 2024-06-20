@@ -1,0 +1,19 @@
+[Chevalier]
+Et voila, tout semble a sa place.
+[Chevalier: mets les pieces]
+...
+
+[Chevalier: attend]
+*rien ne se passe*
+[Chevalier: remuant son engin]
+Alleeeez...
+
+[Le vaisseau demarre]
+...
+
+[Chevalier: satisfait]
+Genial !
+[Chevalier]
+Bon bah voila, soit je rentre,
+[Chevalier]
+soit je reste tuer quelques monstres...

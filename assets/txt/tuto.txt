@@ -1,0 +1,20 @@
+[DIDACTICIEL]
+Loading...
+[Chevalier: reprends connaissance]
+Argh, ma tete... (Press Space)
+[Chevalier: reprends connaissance]
+Ou suis-je ?
+
+[Chevalier: reprends connaissance]
+Me voila bien engourdi...
+[Chevalier: reprends connaissance]
+Je dois me concentrer pour me remettre sur pied.
+
+[Chevalier: se redresse]
+Je devrais pouvoir me deplacer...
+[Chevalier: se redresse]
+Z pour avancer, Q pour aller a gauche, D a droite, et S en bas
+[Chevalier]
+Je dois trouver un moyen de m'echapper,
+[Chevalier]
+Allez, on se remue !
