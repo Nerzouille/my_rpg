@@ -86,4 +86,4 @@ Dans un groupe de 4, soit **34.8% du projet**.
 - LA ROCCA Lorenzo ([LinkedIn](https://github.com/lorenzolarc))
 - PALLIERE Charly ([LinkedIn](https://github.com/charlypal))
 - REYNAUD Florian ([LinkedIn](https://github.com/FLOWleplusbeau))
-- SMOTER Noa ([LinkedIn](https://www.github.com/nerzouille) / [Portfolio](https://nerzouille.github.io/))
+- SMOTER Noa ([LinkedIn](https://www.github.com/nerzouille) / [Portfolio](https://noasmoter.vercel.app/))
